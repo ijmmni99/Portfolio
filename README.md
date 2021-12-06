@@ -6,4 +6,4 @@ Welcome to my Digital Portfolio!
 This repository is home to my website hosted on GitHub. Feel free to explore!
 
 Screen Example:
-![Light Mode](https://raw.githubusercontent.com/ijmmni99/Portfolio/master/assets/img/readme1.PNG?raw=true "Optional Title")
+![Light Mode](https://raw.githubusercontent.com/ijmmni99/Portfolio/master/assets/img/readme1.PNG | width=100)
